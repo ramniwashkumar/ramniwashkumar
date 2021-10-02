@@ -8,7 +8,7 @@ As a Intermediate of Data Science I work towards delighting customers at scale u
 
 Coding Skills: SQL (Medium), Python (Medium) : Data Science Proficiency: Decision Trees, Random Forest, SVM
 
-Tools and Technologies used: Python, iPython Notebook - Jyupter, SQL, Excel
+Tools and Technologies used: Python, iPython Notebook - Jupyter, SQL, Excel
 
 Techniques: Regression - Linear, Logistic, Ridge,Lasso (Regularized models), Hypothesis Testing (T-test, Chi-Square), K-means Clustering, Decision Trees, Random Forest, Support Vector Machines. You can connect with me for any opportunity.<h5>
   
