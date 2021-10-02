@@ -1,6 +1,16 @@
 <h1 align="center">Hello World 👋, I'm Ramniwash Kumar</h1>
 
-<h5> I'm a student, pursuing Bachelor of Technology in Computer Engineering from IIITDM Kurnool. I'm currently exploring Data Science. You can connect with me for any opportunity.<h5>
+<h5> I'm a student, pursuing Bachelor of Technology in Computer Engineering from IIITDM Kurnool. I am a Data Science and Machine Learning starter with 6 months of experience in Analytics, Machine learning.
+
+As a Intermediate of Data Science I work towards delighting customers at scale using predictive modeling & machine learning. I have made data science projects pertaining to diverse business applications of predictive analytics such as:
+1) Spam detection,
+2) Advance House Price prediction
+
+Coding Skills: SQL (Medium), Python (Medium) : Data Science Proficiency: Decision Trees, Random Forest, SVM
+
+Tools and Technologies used: Python, iPython Notebook - Jyupter, SQL, Excel
+
+Techniques: Regression - Linear, Logistic, Ridge,Lasso (Regularized models), Hypothesis Testing (T-test, Chi-Square), K-means Clustering, Decision Trees, Random Forest, Support Vector Machines. You can connect with me for any opportunity.<h5>
   
 <p>
 
