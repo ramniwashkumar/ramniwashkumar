@@ -34,7 +34,6 @@ Techniques: Regression - Linear, Logistic, Ridge,Lasso (Regularized models), Hyp
 <h3 align="center">Want to Connect?? My inbox is always open.😊</h3>
 <p align="center">
 <a href="https://twitter.com/ramniwashkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramniwashkr" height="30" width="40" /></a>
-<a href="mailto:ramniwashkumar786@gmail.com" target="blank"> <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="ramniwashkumar786" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/ramniwashkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramniwashkumar" height="30" width="40" /></a>
 <a href="https://instagram.com/ramniwashkumar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramniwashkumar786" height="30" width="40" /></a>
 </p>
