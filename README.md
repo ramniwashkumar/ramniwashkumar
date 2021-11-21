@@ -25,7 +25,6 @@ Techniques: Regression - Linear, Logistic, Ridge,Lasso (Regularized models), Hyp
 <p>
 
 <p>
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 <p>&nbsp;<img align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ramniwashkumar&show_icons=true&locale=en&theme=radical" alt="ramniwashkumar" /></p>
 <p><img align="center" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ramniwashkumar&theme=radical" alt="ramniwashkumar" /></p>
 </p>
