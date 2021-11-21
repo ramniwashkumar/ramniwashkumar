@@ -1,4 +1,14 @@
-<h1 align="center">Hello World 👋, I'm Ramniwash Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ramniwash Kumar</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramniwashkumar&label=Profile%20views&color=0e75b6&style=flat" alt="ramniwashkumar" /> </p>
+<img align="right" width="40%" height"40%" src="./gif.gif">
+
+- 🔭 I’m currently participating on **Kaggle**
+
+- 🌱 I’m currently learning **Deep Learning**
+
+- 👯 I’m looking to collaborate on **Data science**
+
+- 📫 How to reach me **ramniwashkumar786@gmail.com**
 
 <h5> I'm a student, pursuing Bachelor of Technology in Computer Engineering from IIITDM Kurnool. I am a Data Science and Machine Learning starter with 6 months of experience in Analytics, Machine learning.
 
