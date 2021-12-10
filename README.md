@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramniwash Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramniwashkumar&label=Profile%20views&color=0e75b6&style=flat" alt="ramniwashkumar" /> </p>
-<img align="right" width="40%" height"40%" src="./gif.gif">
+<img align="right" width="40%" height"40%" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif">
 
 - 🔭 I’m currently participating on **Kaggle**
 
