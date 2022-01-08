@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data science**
-- <a**My Tableau Profile -** href="https://public.tableau.com/app/profile/ramniwashkumar#!/" /> <img src= "https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="Tableau"></a>
+- <a**My Tableau Profile -** href="https://public.tableau.com/app/profile/ramniwashkumar#!/"> <img src= "https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="Tableau"></a>
 
 - 📫 How to reach me **ramniwashkumar786@gmail.com**
 
