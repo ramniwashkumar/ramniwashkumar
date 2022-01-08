@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data science**
+- <a**My Tableau Profile -** href="https://public.tableau.com/app/profile/ramniwashkumar#!/"/></a>
 
 - 📫 How to reach me **ramniwashkumar786@gmail.com**
 
@@ -25,7 +26,7 @@ Techniques: Regression - Linear, Logistic, Ridge,Lasso (Regularized models), Hyp
 <p>
 
 <p>
-<p><img align="center" height="200px" width="400px" float="left" src="https://github-readme-stats.vercel.app/api?username=ramniwashkumar&show_icons=true&locale=en&theme=radical" alt="ramniwashkumar" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" height="200px" width="400px"  src="https://github-readme-streak-stats.herokuapp.com/?user=ramniwashkumar&theme=radical" alt="ramniwashkumar" /></p>
+<p><img align="center" height="200px" width="400px" float="left" src="https://github-readme-stats.vercel.app/api?username=ramniwashkumar&show_icons=true&locale=en&theme=radical" alt="ramniwashkumar" />&nbsp;&nbsp;&nbsp; <img align="center" height="200px" width="400px"  src="https://github-readme-streak-stats.herokuapp.com/?user=ramniwashkumar&theme=radical" alt="ramniwashkumar" /></p>
 <p></p>
 </p>
 
