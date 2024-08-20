@@ -2,10 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramniwashkumar&label=Profile%20views&color=0e75b6&style=flat" alt="ramniwashkumar" /> </p>
 <img align="right" width="40%" height"40%" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif">
 
-- 🎗️ I have done B.Tech in CSE from IIITDM Kurnool (2019 - 2023)
+- 🎗️ I have done B.Tech in CSE from IIITDM Kurnool (2019 - 2023), Currently working as Software Engineer at Boltzmann Labs.
 
 - 🎗️ I worked as Software Engineer 1 at MAQ Software from July 2023 to March 2024
-- 🎗️ I have more than 1 work experience with : JavaScript, React Js, Node Js, Express.js, MySQL and MongoDB
+- 🎗️ I have more than of 1 Year work experience with : JavaScript, React Js, Node Js, Express.js, MySQL and MongoDB
 - 🎗️ I'm among global top 3% on Leetcode, solved 2000+ questions on Leetcode to enhance my data structures and algorithms
 - <a href="https://leetcode.com/u/ramniwashkumar/">My LeetCode profile</a>
 
