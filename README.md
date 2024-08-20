@@ -4,7 +4,7 @@
 
 - 🎗️ I have done B.Tech in CSE from IIITDM Kurnool (2019 - 2023), Currently working as Software Engineer at Boltzmann Labs.
 
-- 🎗️ I worked as Software Engineer 1 at MAQ Software from July 2023 to March 2024
+- 🎗️ I also previously worked as Software Engineer 1 at MAQ Software from July 2023 to March 2024
 - 🎗️ I have more than of 1 Year work experience with : JavaScript, React Js, Node Js, Express.js, MySQL and MongoDB
 - 🎗️ I'm among global top 3% on Leetcode, solved 2000+ questions on Leetcode to enhance my data structures and algorithms
 - <a href="https://leetcode.com/u/ramniwashkumar/">My LeetCode profile</a>
